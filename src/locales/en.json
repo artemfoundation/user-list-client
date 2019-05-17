@@ -1,0 +1,10 @@
+{
+    "main": {
+        "title": "Test application",
+        "intro": "The application allows you to display a list of users in the system, allows you to add, delete, filter and sort them.",
+        "button": "Start"
+    },
+    "users": {
+    	"notFound": "Users not found."
+    }
+}
